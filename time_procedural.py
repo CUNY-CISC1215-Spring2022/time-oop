@@ -66,7 +66,6 @@ def print_time(t):
 t1 = Time()
 t1.hours = 10
 t1.minutes = 0
-t1.seconds = 0
 
 t2 = Time()
 t2.hours = 0
